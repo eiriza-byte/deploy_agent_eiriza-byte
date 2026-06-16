@@ -1,5 +1,6 @@
 
 
+
 # deploy_agent_eiriza-byte
 
 ## Description
@@ -28,7 +29,7 @@ A shell script that automates the creation of a Student Attendance Tracker proje
    - Delete the incomplete directory to keep the workspace clean
 
 ## Project Structure Created
-~
+```
 
 attendance_tracker_{input}/
 ├── attendance_checker.py
@@ -38,7 +39,7 @@ attendance_tracker_{input}/
 └── reports/
     └── reports.log
 
-~
+```
 ## Default Thresholds
 - Warning: 75%
 - Failure: 50%
